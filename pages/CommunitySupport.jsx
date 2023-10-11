@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './CommunitySupport.css';
 import { io } from 'socket.io-client'; // Import Socket.io client library
 
-const socket = io('YOUR_SOCKET_SERVER_ENDPOINT'); // Replace with your Socket.io server endpoint
+const socket = io('http://localhost:3000'); // Replace with your Socket.io server endpoint
 
 const CommunitySupport = () => {
   const [forumPosts, setForumPosts] = useState([]);
