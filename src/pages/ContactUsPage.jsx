@@ -1,4 +1,5 @@
 import React from 'react';
+import './ContactUsPage.css'; // Add your CSS file for styling
 
 const ContactUsPage = () => {
   return (

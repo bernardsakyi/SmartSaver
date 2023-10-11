@@ -1,11 +1,12 @@
 import React from 'react';
+import './AboutUsPage.css'; // Add your CSS file for styling
 
 const AboutUsPage = () => {
   return (
     <div>
       <h2>About Us</h2>
       <p>
-        [Your Company Name] is dedicated to helping individuals and businesses manage their finances effectively. With our
+        SmartSaver is dedicated to helping individuals and businesses manage their finances effectively. With our
         cutting-edge technology and user-friendly interface, we provide innovative solutions for saving, budgeting, and
         investing.
       </p>

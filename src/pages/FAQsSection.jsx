@@ -1,4 +1,5 @@
 import React from 'react';
+import './FAQsSection.css'; // Add your CSS file for styling
 
 const FAQsSection = () => {
   return (

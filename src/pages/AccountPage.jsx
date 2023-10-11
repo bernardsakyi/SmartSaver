@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import SecureTransactionComponent from './SecureTransactionComponent';
-import TwoFactorAuthentication from './TwoFactorAuthentication';
-import BiometricLogin from './BiometricLogin';
+/*import SecureTransactionComponent from './SecureTransactionComponent';*/
+/*import TwoFactorAuthentication from './TwoFactorAuthentication';*/
+/*import BiometricLogin from './BiometricLogin';*/
 import './AccountPage.css'; // Add your CSS file for styling
 
 const AccountPage = () => {

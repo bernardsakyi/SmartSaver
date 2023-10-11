@@ -1,4 +1,5 @@
 import React from 'react';
+import './CustomerSupportPage.css'; // Add your CSS file for styling
 
 const CustomerSupportPage = () => {
   return (
