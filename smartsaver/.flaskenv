@@ -1,0 +1,5 @@
+FLASK_APP=smartsaver_app.py
+
+FLASK_DEBUG=TRUE
+
+FLASK_HOST='0.0.0.0'
